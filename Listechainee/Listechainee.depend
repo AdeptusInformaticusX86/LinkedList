@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571055758 source:e:\prog\listechainee\liste.c
+	<stdio.h>
+	<stdlib.h>
+	"Liste.h"
+
+1571055787 e:\prog\listechainee\liste.h
+
